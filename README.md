@@ -1,4 +1,4 @@
-# 【置顶】任务
+# 任务
 每日（周）的任务：[https://github.com/orgs/FJUT-STUDIO/projects/1](https://github.com/orgs/FJUT-STUDIO/projects/1)
 
 ## 个人作业地址汇总
